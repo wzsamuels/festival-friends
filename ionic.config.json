@@ -1,0 +1,7 @@
+{
+  "name": "festival-friends",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
